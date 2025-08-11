@@ -1,0 +1,27 @@
+{
+  "developer": {
+    "name": "Yash Developer",
+    "title": "Gen AI & Backend Engineer",
+    "bio": "Computer Science undergraduate passionate about Generative AI and backend engineering. I love building intelligent systems and scalable backend solutions that solve real-world problems. Currently exploring machine learning, AI model integration, and distributed systems while pursuing my degree.",
+    "skills": [
+      "Python",
+      "LangChain",
+      "FastAPI",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "REST APIs",
+      "GraphQL",
+      "GoLang",
+      "SpringBoot",
+      "Flask",
+      "Agentic AI"
+    ],
+    "experience": "University Student",
+    "email": "yashkr104@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yashkumar21/",
+    "github": "https://github.com/AuraReaper",
+    "resume": "/uploads/1754931708038-YashKumarGupta.pdf"
+  }
+}

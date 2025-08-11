@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "title": "Waddle API - Book Management System",
+      "description": "A scalable, high-performance RESTful API for book management and review systems, featuring JWT authentication, async processing, and distributed task queues.",
+      "longDescription": "Waddle API is a production-ready book management platform built with modern Python technologies, designed to handle high-throughput operations while maintaining security and scalability. The system enables users to manage personal book collections, write reviews, categorize books with tags, and interact through a comprehensive authentication system.\n\nThe application demonstrates advanced backend development patterns including asynchronous programming, distributed task processing, and enterprise-grade security implementations. It features a complete user management system with email verification, password reset functionality, and role-based access control.",
+      "technologies": [
+        "FastAPI",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Redis",
+        "Celery"
+      ],
+      "images": [
+        "/uploads/1754939329814-Gemini_Generated_Image_ve4vqlve4vqlve4v.png"
+      ],
+      "githubUrl": "https://github.com/AuraReaper/Waddle.git",
+      "featured": false,
+      "category": "Backend",
+      "completedDate": "2025-08-11",
+      "id": "waddle-api-book-management-system-1754939336237"
+    }
+  ]
+}
